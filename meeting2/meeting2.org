@@ -13,16 +13,17 @@ Ariel A and Ariel B did a big initial meeting for knowledge transfer. Here are s
 -  Mechanics 
 * Expanses to competition 100,000 shekel
 * USBL ?
-* Itzik reminder [0/2] 
+* Itzik reminder [0/3] 
 - [ ] Remind itzik intex - swimming pool
 - [ ] Remind itzik what about the donation 
 - [ ] Remind itzik about clodia harel respondsible for all internation donations 100,000 dollar 
   
-* Zeev Recommendation [0/3]
+* Zeev Recommendation [0/4]
 Special recommendation 
 - [ ] Each Meeting should have summary
 - [ ] Buy the components long time before !
 - [ ] Create wishlist for itay 
+- [ ] List for providers for buying stuff 
 * Nadav
 ** Failsafe is essential for underwater [0/1]
 - [ ] If filter is diverging activate failsafe
@@ -31,14 +32,19 @@ Special recommendation
 - [ ] Magnetometer 
 - [ ] get RTK floating GNSS 
 * Donation 
-** Create a company list for donation 
-** Talk to colleague about donation 
+-  Create a company list for donation 
+-  Talk to colleague about donation 
 * vitzo design school - talk with them ?
 * Ways to get money
-** use ariel for find pipe damage
-** use ariel for biological survey 
+- Use ariel for find pipe damage
+- Use ariel for biological survey 
 
 
 * For buying Priorities Prefer israel 
 
+* Progress Report
+For each team and each person define a goal 
 
+* For Ariel A missions [/]
+- [ ] Update git
+- [ ] Return Pelican 

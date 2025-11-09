@@ -25,20 +25,21 @@ Ariel A and Ariel B did a big initial meeting for knowledge transfer. Here are s
 # USBL ?
 
 
-# Itzik reminder <code>[0/2]</code>
+# Itzik reminder <code>[0/3]</code>
 
 -   [ ] Remind itzik intex - swimming pool
 -   [ ] Remind itzik what about the donation
 -   [ ] Remind itzik about clodia harel respondsible for all internation donations 100,000 dollar
 
 
-# Zeev Recommendation <code>[0/3]</code>
+# Zeev Recommendation <code>[0/4]</code>
 
 Special recommendation 
 
 -   [ ] Each Meeting should have summary
 -   [ ] Buy the components long time before !
 -   [ ] Create wishlist for itay
+-   [ ] List for providers for buying stuff
 
 
 # Nadav
@@ -58,11 +59,8 @@ Special recommendation
 
 # Donation
 
-
-## Create a company list for donation
-
-
-## Talk to colleague about donation
+-   Create a company list for donation
+-   Talk to colleague about donation
 
 
 # vitzo design school - talk with them ?
@@ -70,12 +68,20 @@ Special recommendation
 
 # Ways to get money
 
-
-## use ariel for find pipe damage
-
-
-## use ariel for biological survey
+-   Use ariel for find pipe damage
+-   Use ariel for biological survey
 
 
 # For buying Priorities Prefer israel
+
+
+# Progress Report
+
+For each team and each person define a goal 
+
+
+# For Ariel A missions <code>[/]</code>
+
+-   [ ] Update git
+-   [ ] Return Pelican
 
