@@ -28,6 +28,12 @@
 ** use ariel for biological survey 
 
 
+* Nadav
+** Failsafe is essential for underwater 
+*** If filter is diverging 
+** GNSS antenna
+** Magnetometer 
+* For buying Priorities Prefer israel 
 
 
 

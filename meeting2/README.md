@@ -1,0 +1,97 @@
+
+
+# Zeev Recommendation
+
+
+## Each Meeting should have summary
+
+
+## Buy the components long time before !
+
+
+### Create wishlist for itay
+
+
+# Split to teams ?
+
+
+## Electricity
+
+
+## Mechanics
+
+
+# Clodia harel donation ?
+
+
+## 100,000 dollar
+
+
+# Expanses to competition 100,000 shekel
+
+
+# Aizik Demands
+
+
+## Primary mission: Get Ariel inside the deep water !
+
+
+## Record data
+
+
+## Aizik says Camera critical ?
+
+
+## VIO SLAM
+
+
+# USBL ?
+
+
+# Itzik reminder
+
+
+## Remind itzik intex - swimming pool
+
+
+## Remind itzik what about the donation
+
+
+# vitzo design school - talk with them ?
+
+
+# Donation
+
+
+## Create a company list for donation
+
+
+## Talk to colleague about donation
+
+
+# Ways to get money
+
+
+## use ariel for find pipe damage
+
+
+## use ariel for biological survey
+
+
+# Nadav
+
+
+## Failsafe is essential for underwater
+
+
+### If filter is diverging
+
+
+## GNSS antenna
+
+
+## Magnetometer
+
+
+# For buying Priorities Prefer israel
+
