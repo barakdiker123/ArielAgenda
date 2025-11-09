@@ -1,0 +1,52 @@
+
+
+# Zeev Recommendation
+
+
+## Each Meeting should have summary
+
+
+## Buy the components long time before !
+
+
+### Create wishlist for itay
+
+
+# Split to teams ?
+
+
+## Electricity
+
+
+## Mechanics
+
+
+# Clodia harel donation ?
+
+
+## 100,000 dollar
+
+
+# Expanses to competition 100,000 dollar
+
+
+# Aizik Demands
+
+
+## Primary mission: Get Ariel inside the deep water !
+
+
+## Aizik says Camera critical ?
+
+
+## VIO SLAM
+
+
+## Record data
+
+
+# USBL ?
+
+
+# remind itzik intex - swimming pool
+

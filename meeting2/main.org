@@ -1,7 +1,9 @@
 #+title: Meeting date 9.11.2025
+#+OPTIONS: toc:nil
 * Zeev Recommendation 
 ** Each Meeting should have summary 
 ** Buy the components long time before !
+*** Create wishlist for itay 
 * Split to teams ?
 ** Electricity
 ** Mechanics 
@@ -15,6 +17,7 @@
 ** Record data 
 
 * USBL ?
+* remind itzik intex - swimming pool 
 
 
 
