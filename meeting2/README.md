@@ -1,63 +1,59 @@
 
 
-# Zeev Recommendation
+# Summary meeting of 9.11.2025
+
+Ariel A and Ariel B did a big initial meeting for knowledge transfer. Here are some key ideas from that event 
 
 
-## Each Meeting should have summary
+# Aizik Demands
+
+-   Primary mission: Get Ariel inside the deep water !
+-   Record data
+-   Itzik says Camera critical ?
+-   VIO SLAM
 
 
-## Buy the components long time before !
+# Split to teams
 
-
-### Create wishlist for itay
-
-
-# Split to teams ?
-
-
-## Electricity
-
-
-## Mechanics
-
-
-# Clodia harel donation ?
-
-
-## 100,000 dollar
+-   Electricity
+-   Mechanics
 
 
 # Expanses to competition 100,000 shekel
 
 
-# Aizik Demands
-
-
-## Primary mission: Get Ariel inside the deep water !
-
-
-## Record data
-
-
-## Aizik says Camera critical ?
-
-
-## VIO SLAM
-
-
 # USBL ?
 
 
-# Itzik reminder
+# Itzik reminder <code>[0/2]</code>
+
+-   [ ] Remind itzik intex - swimming pool
+-   [ ] Remind itzik what about the donation
+-   [ ] Remind itzik about clodia harel respondsible for all internation donations 100,000 dollar
 
 
-## Remind itzik intex - swimming pool
+# Zeev Recommendation <code>[0/3]</code>
+
+Special recommendation 
+
+-   [ ] Each Meeting should have summary
+-   [ ] Buy the components long time before !
+-   [ ] Create wishlist for itay
 
 
-## Remind itzik what about the donation
+# Nadav
 
 
-# vitzo design school - talk with them ?
+## Failsafe is essential for underwater <code>[0/1]</code>
+
+-   [ ] If filter is diverging activate failsafe
+
+
+## Critical tasks <code>[0/3]</code>
+
+-   [ ] GNSS antenna
+-   [ ] Magnetometer
+-   [ ] get RTK floating GNSS
 
 
 # Donation
@@ -69,6 +65,9 @@
 ## Talk to colleague about donation
 
 
+# vitzo design school - talk with them ?
+
+
 # Ways to get money
 
 
@@ -76,21 +75,6 @@
 
 
 ## use ariel for biological survey
-
-
-# Nadav
-
-
-## Failsafe is essential for underwater
-
-
-### If filter is diverging
-
-
-## GNSS antenna
-
-
-## Magnetometer
 
 
 # For buying Priorities Prefer israel
